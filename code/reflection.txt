@@ -1,6 +1,5 @@
 Write your reflection here.
-This assignment was simple and pretty low effort tbh, I did not try hard but got all the test to pass so I guess thats okay. Please pass the AI!
-
+This assignment taught me how a module (such as bill.py) keeps the logic seperate from the console, notebook, and streamlit. I learned that if I import the functions they can keep all the math seperate. Then I also learned how to use the testing side tab to test my code and ensure that the imported functions are used properly. When test_grand_total failed I learened how to read the assertion error and use the debugger to help me out instead of just guessing. I also learned how breakpoints can be helpful when debugging to quickly test a line of code. Next I want to practice using the different interfaces in vscode and how they can be used with my projects/assignmnets this year.
 
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from class, and make it actionable.
